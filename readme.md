@@ -4,9 +4,9 @@
 ![Code Logo](code.png)
 ## Description
 
-Welcome to the solution Oncology Terminology - an example for your projects
+Welcome to the solution **Oncology Terminology** - an example for your projects
 
-A dictionary of oncology  terminology.
+A dictionary of **oncology terminology**.
     
 ## Features
 - Easy to understand and use  

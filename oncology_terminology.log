@@ -1,0 +1,9 @@
+2024-04-18 07:53:37,563 - INFO - START oncology_terminology =============================================
+2024-04-18 07:53:37,563 - INFO - START oncology_terminology Start Time = 2024-04-18 07:53:37
+2024-04-18 07:53:37,563 - INFO - oncology_terminology Step 0 - Initialize the configuration file parser
+2024-04-18 07:53:37,563 - INFO - Process oncology_terminology Step 0 - Initializing and starting Logging Process.
+2024-04-18 07:53:37,703 - INFO - PERFORMANCE oncology_terminology The total process duration was:0.14
+2024-04-18 07:53:37,703 - INFO - PERFORMANCE oncology_terminology Stop Time = 2024-04-18 07:53:37
+2024-04-18 07:53:37,703 - INFO - PERFORMANCE oncology_terminology Short process duration less than 3 Seconds:0.14
+2024-04-18 07:53:37,703 - INFO - PERFORMANCE oncology_terminology Performance optimization is not reccomended
+2024-04-18 07:53:37,703 - INFO - END oncology_terminology =============================================
