@@ -48,5 +48,5 @@ To get started with the **Oncology Terminology** solution repository, follow the
 ![Brand](brand.png)
     
 ## Deliverables or Figures
- ![additional_image](oncology_terminology.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
+ ![additional_image](oncology_terminology.png)  <br>
     
