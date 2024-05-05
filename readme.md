@@ -1,4 +1,6 @@
 
+![Image image_filename](solution_sign.png)
+
 # Oncology Terminology - A dictionary of oncology  terminology.
 A dictionary of oncology  terminology.
 
@@ -9,8 +11,6 @@ Welcome to the solution **Oncology Terminology** - an example for your projects
 A dictionary of oncology  terminology.
 
 ![Image image_filename](sample.png)
-
-![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
