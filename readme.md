@@ -1,14 +1,14 @@
 
 ![Image image_filename](solution_sign.png)
 
-# Oncology Terminology - A dictionary of oncology  terminology.
-A dictionary of oncology  terminology.
+# Oncology Terminology - https://github.com/JoeEberle/ -- josepheberle@outlook.com
+https://github.com/JoeEberle/ -- josepheberle@outlook.com
 
 ![Image image_filename](code.png)
 
 Welcome to the solution **Oncology Terminology** - an example for your projects
 
-A dictionary of oncology  terminology.
+https://github.com/JoeEberle/ -- josepheberle@outlook.com
 
 ![Image image_filename](sample.png)
 
