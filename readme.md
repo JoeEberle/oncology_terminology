@@ -39,11 +39,8 @@ To get started with the **Oncology Terminology** solution repository, follow the
  ![additional_image](oncology_terminology.png)  <br>
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
