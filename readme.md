@@ -2,7 +2,7 @@
     
 # Oncology Terminology 
 
-## https://github.com/JoeEberle/ -- josepheberle@outlook.com
+## oncology_terminology
 
     
 ![Solution](code.png)
@@ -25,7 +25,7 @@
 
 Welcome to the solution **Oncology Terminology** - an example for your projects
 
-https://github.com/JoeEberle/ -- josepheberle@outlook.com
+oncology_terminology
 
 ![Solution](code.png)
 
